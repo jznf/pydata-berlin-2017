@@ -39,6 +39,19 @@ https://pydata.org/berlin2017/schedule/presentation/5/
 
 https://github.com/tttthomasssss?tab=repositories
 
+
+## A word is worth a thousand pictures: Convolutional methods for text (Tal Perry)
+https://pydata.org/berlin2017/schedule/presentation/44/
+
+https://arxiv.org/abs/1608.06993
+
+https://arxiv.org/abs/1610.10099
+
+https://medium.com/@TalPerry
+
+https://github.com/talolard?tab=repositories
+
+
 ## Spying on my Network for a Day: Data Analysis for Networks. (Aisha Bello)
 https://pydata.org/berlin2017/schedule/presentation/42/
 
