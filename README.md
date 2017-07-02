@@ -1,7 +1,7 @@
 # pydata-berlin-2017
 https://pydata.org/berlin2017/schedule/
 
-## Introduction to Data-Analysis with Pandas (Alexander Hendorf PyCon Mannheim/Karlsruhe organizer https://de.pycon.org)
+## Introduction to Data-Analysis with Pandas (Alexander Hendorf PyCon Mannheim/Karlsruhe https://de.pycon.org)
 https://pydata.org/berlin2017/schedule/presentation/14/
 https://github.com/alanderex/pandas-pydata-berlin-2017
 
