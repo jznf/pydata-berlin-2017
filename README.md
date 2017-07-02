@@ -7,7 +7,7 @@ https://pydata.org/berlin2017/schedule/presentation/14/
 ## Pandas from the Inside / "Big Pandas" (Stephen Simmons -- London FinTech, Aussie football)
 https://pydata.org/berlin2017/schedule/presentation/16/
 
-## Introductory tutorial on data exploration and statistical models (Alexandru Agachi 5*Phd mess)
+## Introductory tutorial on data exploration and statistical models (Alexandru Agachi)
 
 
 ## The path between developing and serving machine learning models.
