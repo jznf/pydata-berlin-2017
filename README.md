@@ -22,3 +22,7 @@ https://github.com/adrinjalali/pipeline-docs
 ## What does it all mean? - Compositional distributional semantics for modelling natural language
 https://pydata.org/berlin2017/schedule/presentation/5/
 https://github.com/tttthomasssss?tab=repositories
+
+## Spying on my Network for a Day: Data Analysis for Networks. (Aisha Bello)
+https://pydata.org/berlin2017/schedule/presentation/42/
+https://github.com/shante66/pydata-berlin-2017
