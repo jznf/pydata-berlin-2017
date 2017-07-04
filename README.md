@@ -33,6 +33,8 @@ https://github.com/adrinjalali/pipeline-docs
 https://pydata.org/berlin2017/schedule/presentation/9/
 
 https://github.com/bhargavvader/personal/tree/master/notebooks/text_analysis_tutorial
+install english model: ```python -m spacy download en_core_web_sm_1.2.0 --direct``` 
+https://spacy.io/docs/usage/models
 
 ## What does it all mean? - Compositional distributional semantics for modelling natural language
 https://pydata.org/berlin2017/schedule/presentation/5/
