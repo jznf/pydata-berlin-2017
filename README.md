@@ -55,6 +55,8 @@ https://medium.com/@TalPerry
 
 https://github.com/talolard?tab=repositories
 
+## Evaluating Topic Models (Matti Lyra)
+https://github.com/mattilyra/pydataberlin-2017
 
 ## Spying on my Network for a Day: Data Analysis for Networks. (Aisha Bello)
 https://pydata.org/berlin2017/schedule/presentation/42/
