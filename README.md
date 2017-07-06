@@ -60,6 +60,9 @@ https://pydata.org/berlin2017/schedule/presentation/54/
 
 https://github.com/mattilyra/pydataberlin-2017
 
+## Lightning talk: Catalin Vasii -- "thenobelizer"
+https://github.com/cvasii23/thenobelizer
+
 ## Spying on my Network for a Day: Data Analysis for Networks. (Aisha Bello)
 https://pydata.org/berlin2017/schedule/presentation/42/
 
